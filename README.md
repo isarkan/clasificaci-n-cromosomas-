@@ -1,1 +1,2 @@
-# clasificaci-n-cromosomas-
+# clasificacion-cromosomas 
+a partir de imagenes
